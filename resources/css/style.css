@@ -1,0 +1,32 @@
+body {
+  background-color: black;
+  font-family: Verdana;
+  font-weight: normal;
+  text-align: center;
+}
+
+h2 {
+  color: white;
+  font-size: 50px;
+  text-align: center;
+}
+
+h5 {
+  color: aquamarine;
+  font-size: 16px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+p {
+  color: grey;
+  font-size: 21px;
+}
+
+.iphone {
+  margin-top: 40px;
+}
+
+footer p {
+  text-align: right;
+}
